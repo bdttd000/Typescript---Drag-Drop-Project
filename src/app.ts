@@ -87,7 +87,6 @@ function Autobind(_: any, _2: string, descriptor: PropertyDescriptor) {
 }
 
 // ProjectList Class
-
 class ProjectList {
   templateElement: HTMLTemplateElement;
   hostElement: HTMLDivElement;
